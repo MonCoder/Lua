@@ -13,4 +13,8 @@
 
 欢迎大家光临我的 Blog[http://www.moncoder.com](http://www.moncoder.com "MonCoder.Com") ，共同讨教！
 
+<<<<<<< HEAD
 [@MonCoder](http://weibo.com/736403457 "@MonCoder")
+=======
+$$@MonCoder$$
+>>>>>>> origin/master
